@@ -1,0 +1,2 @@
+type  a word that contains the missing character and see if suggestion appears 
+
