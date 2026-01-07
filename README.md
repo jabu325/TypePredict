@@ -1,3 +1,5 @@
+[you can read that...., or just watch me]: 
+
 the following is a simple project which i created to keep up with typing speed because some keys on my keyboard are not functional
 
 i can no longer perform 60 words per second but im okay with 20
