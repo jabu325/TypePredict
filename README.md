@@ -1,4 +1,4 @@
-[you can read that...., or just watch me]: 
+[you can read that...., or just watch me]: https://youtube.com/shorts/Ecifh46zbcA?si=sfn_Z-WwPSVK4p13
 
 the following is a simple project which i created to keep up with typing speed because some keys on my keyboard are not functional
 
