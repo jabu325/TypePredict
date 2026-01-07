@@ -147,9 +147,9 @@ ShowSuggestions()
     SuggestionList := Object()
     text := "Typing: " current "`n"
 
-    if (StrLen(current) < 2)
+    if (StrLen(current) < 1)
     {
-        GuiControl,, T, % text "`n(start typing 2+ letters)"
+        GuiControl,, T, % text "`n(start typing letters)"
         return
     }
 
