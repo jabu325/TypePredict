@@ -16,6 +16,6 @@ lastly this solution is in its early stages so the following issues occur
     Now this solution isnt solid but i believe with time it will be..., the TypePrdict script is simple and can be modified to suit your situation e.g number 2, 6, 7. dont work
    on my keyboard so im off to modify TypePrdict script to generate suggestions as 1, 3, 4.... .
 
-    if you need any assit with this just hit me up: sinkalajabu@gmail.com
-
+    if you need any assit with this just hit me up: sinkalajabu@gmail.com [ maybe just leave a comment on this repo lol ]
+   
    and if this solution was helpful i would really appreciate following our facebook page: https://www.facebook.com/share/g/1CHEyWgjCz/?mibextid=wwXIfr
